@@ -4,7 +4,7 @@ Couple of years ago, I came across the problem where I had many posts from WSPB 
 
 Since there were 400+ posts, manually cleaning all the files and converting them to PDF was time consuming process. 
 
-So I created a pythong script that would iterate all the files saved in computer disk, remove header & footer, and copy post body to one master file. 
+So I created a python script that would iterate all the files saved in computer disk, remove header & footer, and copy post body to one master file. 
 
 For this RegEx was used to only copy the relevant text. 
 
